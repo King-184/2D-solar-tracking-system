@@ -1,0 +1,30 @@
+# Build outputs
+OBJ/
+*.o
+*.d
+*.crf
+*.axf
+*.hex
+*.map
+*.lst
+*.lnp
+*.htm
+*.build_log.htm
+*.dep
+
+# Keil/uVision user and debug state
+*.uvgui.*
+*.uvguix.*
+*.uvopt
+*.uvoptx
+*.saved_uv4
+*.bak
+*.orig
+*.tmp
+JLinkSettings.ini
+JLink*.txt
+DebugConfig/
+
+# OS/editor noise
+Thumbs.db
+.DS_Store
